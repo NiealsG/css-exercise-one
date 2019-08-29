@@ -27,17 +27,13 @@ h1.example {
 }
 
 /*h3 styles*/
-h3 {
+.element {
   font-size: 1.3em;
   height: 100px;
   margin: 10px 0;
   width: 100%;
 }
 
-h3.element {
-  background-color: green;
-}
-
-h3.element2 {
-  background-color: pink;
+h4 {
+  background: green;
 }
